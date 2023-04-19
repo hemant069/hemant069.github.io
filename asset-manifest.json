@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34a28677.css",
+    "main.js": "/static/js/main.8c4f75f5.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/frazzo.png": "/static/media/frazzo.9cfc1cd084c523347207.png",
+    "static/media/gearbest.png": "/static/media/gearbest.0e680a128ad789ca7302.png",
+    "static/media/bazaar.png": "/static/media/bazaar.cf36bc350022aef65f47.png",
+    "static/media/Hemant_Ramdutt Prajapati_Resume.pdf": "/static/media/Hemant_Ramdutt Prajapati_Resume.27fd6933e17127e5eb2c.pdf",
+    "static/media/Hemant.png": "/static/media/Hemant.c7959ffa49b70bca2970.png",
+    "static/media/getharvest.png": "/static/media/getharvest.89d3de2f1bed85e4dbe8.png",
+    "static/media/masai.png": "/static/media/masai.2d1c63ef67aacce6340d.png",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.34a28677.css.map": "/static/css/main.34a28677.css.map",
+    "main.8c4f75f5.js.map": "/static/js/main.8c4f75f5.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34a28677.css",
+    "static/js/main.8c4f75f5.js"
+  ]
+}
